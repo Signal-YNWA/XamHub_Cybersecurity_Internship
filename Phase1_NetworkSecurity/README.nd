@@ -8,6 +8,19 @@ it is the process of collecting, analyzing and responding to network traffic and
  - Anomaly Detection
  - Behavioral Analysis
 
+Packets: In computer networking,a packet is the basic unit of data transmitted over a network. It contains the data being sent, along with information about the source and destination of the data, and other control information. 
+Packets are broken down into smaller pieces for transmission and reassembled at the destination. 
+
+Protocol: A protocol is a set of rules and conventions governing communication between devices on a network. It defines how data is formatted, transmitted, and received.
+Examples of protocols include TCP/IP, HTTP, FTP, and SMTP.
+
+Intrusion Detection System (IDS): An IDS is a security tool that monitors network traffic and system activities for signs of malicious activity or policy violations. 
+It analyzes network traffic, system logs, and other data sources to detect anomalies and potential threats. 
+
+Firewalls: A firewall is a security system that monitors and controls incoming and outgoing network traffic based on a set of security rules. It acts as a barrier between a private network and a public network,
+such as the internet, to protect against unauthorized access and attacks. 
+
+
 TASK #5
 
 Introduction to Snort
