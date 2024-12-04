@@ -1,10 +1,14 @@
+TASK #1 
+
 Introduction to Network Security Monitoring: (NSM) is a critical aspect of Cybersecurity that involves continues observation and analysis of network traffic.
-its the process of collecting, analyzing and responding to network traffic and events to detect and mitigate security threats.
+it is the process of collecting, analyzing and responding to network traffic and events to detect and mitigate security threats.
 
  Common NSM Techniques includes;
  - Signature Base detections
  - Anomaly Detection
  - Behavioral Analysis
+
+TASK #5
 
 Introduction to Snort
 
