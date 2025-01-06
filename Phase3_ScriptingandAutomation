@@ -1,1 +1,28 @@
+TASK #1 
+
+        SCRIPTING AND AUTOMATION 
+
+In the field of Cybersecurity, proficiency in certain scripting & Programming languages is essentials for task such as automation, vulnerability, assessment and tools development 
+
+> 1). python: renowned for it's versatility and readability. python is extensively used in Cybersecurity for automation task, analyzing malware and developing custom security tools 
+
+> 2). JavaScript: as the cornerstone of web development, its crucial for understanding and mitigating web based vulnerabilities 
+
+> 3). Bash: is vital for automating task in Unix / Linux environment. it us used for system analysis, log analysis and automation of security assessment 
+
+> 4). Powershell: it is employed for automating administrative tasks, conducting network reconnaissance e.t.c 
+
+
+        BASIC CONCEPTS 
+
+1) VARIABLES: are used to store data values 
+
+
+2) LOOPS: are used to repeat a block of code multiple times
+
+
+3) FUNCTIONS: are block of reusable codes that perform specific tasks 
+
+
+4) ERROR HANDLING: python uses try and except blocks to handle errors 
 
