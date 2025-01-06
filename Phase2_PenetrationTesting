@@ -1,1 +1,30 @@
+#Task1
 
+     Introduction To Penetration Testing
+
+Pen-Testing is a simulated cyber attack conducted on a computer system or network to identify and assess vulnerabilities that could be exploited by malicious actors.
+
+Processes of Penetration Testing 
+
+ 1. Planning & Reconnaissance  
+ 2. Scanning & Vulnerability Assessment 
+ 3. Exploitation 
+ 4. Post Exploitation 
+ 5. Reporting 
+
+  Types of Penetration Testing 
+
+1. Black Box --> Here the Tester has no prior knowledge of the target system 
+2. White Box --> Here the tester has detailed knowledge 
+3. Gray Box  --> Here the tester has limited knowledge 
+
+   Benefits 
+
+1. Identity Vulnerability 
+2. Assess Security 
+3. Compliance &  Risk Management 
+4. Improve Security Awareness 
+
+   Two Phases 
+1) Reconnaissance: In this phase the tester gather information about the target system 
+2) Vulnerability Exploitation: In this phase the tester attempts to exploit identified vulnerability to gain unauthorized access
