@@ -1,0 +1,46 @@
+Phase 4.  FINAL PROJECT 
+
+
+TASK #5
+
+            Remediation Recommendations.
+
+This plan outlines strategies to fix common web application vulnerabilities,
+ensuring security through best practices like prepared statements, input validation, and access control.
+
+ 1. SQL Injection (SQLi) Mitigation
+
+Risk: Attackers can manipulate database queries to steal or modify data.
+
+🔹 Solution: Use Prepared Statements (Parameterized Queries)
+
+   Additional Security:
+   Use ORMs (Object-Relational Mappers) like SQLAlchemy (Python) or Eloquent (Laravel).
+   Implement least privilege access (restrict database permissions
+
+ 2. Cross-Site Scripting (XSS) Mitigation
+
+Risk: Attackers inject malicious scripts that execute in users’ browsers.
+
+🔹 Solution: Input Validation & Output Encoding
+ 
+    Sanitize User Input:
+    Use libraries like DOMPurify (JavaScript) or htmlspecialchars (PHP)
+
+    Disable Inline JavaScript:
+    Avoid using innerHTML in JavaScript. Use .textContent instead
+
+3. Cross-Site Request Forgery (CSRF) Mitigation
+
+Risk: Attackers trick users into performing unwanted actions (e.g., changing passwords).
+
+🔹 Solution:
+    Require re-authentication for sensitive actions.
+    Use CAPTCHAs for important forms.
+
+
+ 4. Continuous Security Monitoring
+
+     Implement Web Application Firewalls (WAFs) (e.g., Cloudflare, ModSecurity).
+     Perform Regular Security Audits (manual testing & automated scans).
+     Educate Developers & Users about security best practices.
